@@ -4,9 +4,11 @@ A simple project in Arduino to make a buzzer singing Harry Potter main theme.
 
 # Circuit design 
 
+![passive buzzer](https://user-images.githubusercontent.com/56441252/189546164-eb7802dc-a306-45e5-a668-d87e9daa8c13.JPG)
+
 # Code
 
-```
+```c++
 //First we define all the notes that we need
 #define NOTE_B0  31
 #define NOTE_C1  33
